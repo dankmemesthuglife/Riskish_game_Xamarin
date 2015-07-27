@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path_To_Conquest_Xamarin", "Path_To_Conquest_Xamarin\Path_To_Conquest_Xamarin.csproj", "{6CAF6FD5-B6F4-4E8C-895A-851EFE158845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path_To_Conquest_Xamarin.UITests", "Path_To_Conquest_Xamarin.UITests\Path_To_Conquest_Xamarin.UITests.csproj", "{1829FCB3-9287-428D-AB27-2ECB31085F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1829FCB3-9287-428D-AB27-2ECB31085F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1829FCB3-9287-428D-AB27-2ECB31085F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1829FCB3-9287-428D-AB27-2ECB31085F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1829FCB3-9287-428D-AB27-2ECB31085F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAF6FD5-B6F4-4E8C-895A-851EFE158845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAF6FD5-B6F4-4E8C-895A-851EFE158845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAF6FD5-B6F4-4E8C-895A-851EFE158845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAF6FD5-B6F4-4E8C-895A-851EFE158845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
